@@ -2,9 +2,8 @@ This analyses checks some hypotheses of Yandex.Music user preferences. Example o
 
 Repositry structure:
 1. Project - music_analyses.ipynb - Yandex Music data analyses
-
-Analyses:
-1. User preferences comparison according to day of the week and time
+2. Project - cities_analyses.ipynb - Russian settlements companies analyses
 
 Libraries:
 1. Pandas
+2. Numpy
