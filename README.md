@@ -1,9 +1,10 @@
 This analyses checks some hypotheses of Yandex.Music user preferences. Example of data overview using pandas library.
 
 Repositry structure:
-1. Project - music_analyses.ipynb - Yandex Music data analyses
-2. Project - cities_analyses.ipynb - Russian settlements companies analyses
+- Repository has plain structure, it only contains my notebooks
+- "s1_name.ipynb" - number of sprint + name of the project
 
 Libraries:
-1. Pandas
-2. Numpy
+1. pandas
+2. numpy
+3. matplotlib
